@@ -57,7 +57,6 @@ Heart-Disease-Prediction/
 
 ## ▶️ Run Locally
 ```bash
-git clone https://github.com/yourusername/Heart-Disease-Prediction.git
 cd Heart-Disease-Prediction
 pip install -r requirements.txt
 streamlit run app.py
