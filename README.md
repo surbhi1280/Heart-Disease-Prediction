@@ -62,12 +62,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 🎯 Future Improvements
-- Hyperparameter Tuning
-- Deep Learning Models
-- Better UI/UX
-- Cloud Deployment
-
 ## 👩‍💻 Author
 **Surbhi Patel**
 
